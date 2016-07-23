@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>Up to 70% Off at Iam Yoga</string>
+		<key>title2</key>
+		<string>10 Hot Yoga Classes or One Month of Unlimited Classes at Iam Yoga (Up to 70% Off)</string>
+		<key>description</key>
+		<string>People holding yoga poses typically seek self-discipline and control, whereas those holding yoga posters just want Sting’s autograph. Find peace while standing still with this Grrroupon.</string>
+		<key>image</key>
+		<string>yoga</string>
+		<key>business</key>
+		<string>Iam Yoga</string>
+		<key>address</key>
+		<string>680 Yonge St.
+2nd Floor
+Toronto, ON M4Y 1A6</string>
+		<key>previousPrice</key>
+		<integer>125</integer>
+		<key>currentPrice</key>
+		<integer>45</integer>
+		<key>rating</key>
+		<string>98%</string>
+		<key>distance</key>
+		<string>0.1 km</string>
+		<key>expiry</key>
+		<string>90 days after purchase</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<real>43.7184038</real>
+			<key>long</key>
+			<real>-79.51814</real>
+		</dict>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>47% Off Seafood and More at The Battered Fish </string>
+		<key>title2</key>
+		<string>$8 for $15 Worth of Fast Casual Seafood and More at The Battered Fish </string>
+		<key>description</key>
+		<string>&quot;Always fresh. Always to order.&quot; This is one of the philosophies behind The Battered Fish, but it&apos;s not the only one. In addition to corralling the freshest ingredients available and tailoring each dish—including only the best trackable and sustainable seafood, fish tacos, gourmet burgers, award-winning fries, and crisp salads—to each customer&apos;s specifications, the eatery also commits itself to eco-friendly business practices to back up its dedication to health and the environment. This includes using recyclable materials, reducing water consumption, and working with partners that also practice sustainability.</string>
+		<key>image</key>
+		<string>burger</string>
+		<key>address</key>
+		<string>224 Queens Street West 
+Toronto, ON M5V 1Z6</string>
+		<key>business</key>
+		<string>The Fish Company</string>
+		<key>previousPrice</key>
+		<integer>15</integer>
+		<key>currentPrice</key>
+		<integer>8</integer>
+		<key>rating</key>
+		<string>91%</string>
+		<key>distance</key>
+		<string>0.5 km</string>
+		<key>expiry</key>
+		<string>120 days after purchase</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<real>43.7184038</real>
+			<key>long</key>
+			<real>-79.51814</real>
+		</dict>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>50% Off at Baskin Robbins</string>
+		<key>title2</key>
+		<string>$10 for $20 Toward Ice Cream Cakes at Baskin Robbins</string>
+		<key>description</key>
+		<string>Before teaming up in 1953, Burt Baskin and Irv Robbins were seasoned business owners with their own ice-cream shops. The words “unusual varieties” shone high above each shop, signaling their respective owners’ passion for anything but an ordinary dessert experience. When the two got together, it was natural that they’d adopt the theme of “31 flavors,” one for each day of the month. Since then, Baskin-Robbins has introduced more than 1,000 flavors and opened shops with more than 5,800 franchise owners worldwide. Even their little pink tasting spoon has become a staple as a way to make flavor browsing an event by allowing guests to try specialties without paying cash or chicken-based trade for the privilege.</string>
+		<key>image</key>
+		<string>cake</string>
+		<key>address</key>
+		<string>726 Bloor St. W
+Toronto, ON M6G 1L4</string>
+		<key>business</key>
+		<string>Baskin Robbins</string>
+		<key>previousPrice</key>
+		<integer>20</integer>
+		<key>currentPrice</key>
+		<integer>10</integer>
+		<key>rating</key>
+		<string>85%</string>
+		<key>distance</key>
+		<string>0.81 km</string>
+		<key>expiry</key>
+		<string>Mar 31, 2016</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<real>43.7184038</real>
+			<key>long</key>
+			<real>-79.51814</real>
+		</dict>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Up to 80% Off Custom Tailored Shirts or Suits</string>
+		<key>title2</key>
+		<string>Three Custom Tailored Shirts or a Full Custom Wool Suit at Luxury Plus (Up to 80% Off)</string>
+		<key>description</key>
+		<string>The master tailors at Luxury Plus have never made the same suit twice. Rather than following a pattern or paper doll template, they custom-craft each article of clothing in accordance to clients&apos; measurements and selections from a stock of more than 30,000 fabrics. Tailors take precise measurements and help customers select from a seemingly endless array of wools, tweeds, and cashmeres gathered from Italy and the UK. The bespoke garments are then painstakingly stitched over the next few weeks, before a second fitting and being readied for pick-up or shipping.</string>
+		<key>image</key>
+		<string>suits</string>
+		<key>address</key>
+		<string>4040 Steeles Ave West
+Woodbridge, ON L4L 4Y5</string>
+		<key>business</key>
+		<string>Luxury Plus</string>
+		<key>previousPrice</key>
+		<integer>499</integer>
+		<key>currentPrice</key>
+		<integer>98</integer>
+		<key>rating</key>
+		<string>91%</string>
+		<key>distance</key>
+		<string>0.91 km</string>
+		<key>expiry</key>
+		<string>90 days after purchase</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<real>43.7184038</real>
+			<key>long</key>
+			<real>-79.51814</real>
+		</dict>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>50% of Veggies At Wholefoods</string>
+		<key>title2</key>
+		<string>50% of Veggies At Wholefoods</string>
+		<key>description</key>
+		<string>Just veggies you know</string>
+		<key>image</key>
+		<string>veggies</string>
+		<key>address</key>
+		<string>87 Avenue Rd
+Toronto, ON M5R 3R9</string>
+		<key>business</key>
+		<string>Wholefoods</string>
+		<key>previousPrice</key>
+		<integer>10</integer>
+		<key>currentPrice</key>
+		<integer>5</integer>
+		<key>rating</key>
+		<string>98%</string>
+		<key>distance</key>
+		<string>1.1 km</string>
+		<key>expiry</key>
+		<string>Feb 29, 2016</string>
+		<key>location</key>
+		<dict>
+			<key>lat</key>
+			<real>43.7184038</real>
+			<key>long</key>
+			<real>-79.51814</real>
+		</dict>
+	</dict>
+</array>
+</plist>
